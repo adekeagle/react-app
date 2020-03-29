@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.bf599659.chunk.css",
+    "main.js": "/react-app/static/js/main.3e9f8edf.chunk.js",
+    "main.js.map": "/react-app/static/js/main.3e9f8edf.chunk.js.map",
+    "runtime-main.js": "/react-app/static/js/runtime-main.ee81378e.js",
+    "runtime-main.js.map": "/react-app/static/js/runtime-main.ee81378e.js.map",
+    "static/js/2.4e358d22.chunk.js": "/react-app/static/js/2.4e358d22.chunk.js",
+    "static/js/2.4e358d22.chunk.js.map": "/react-app/static/js/2.4e358d22.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "precache-manifest.89523063f89bcaf15cf61df418341421.js": "/react-app/precache-manifest.89523063f89bcaf15cf61df418341421.js",
+    "service-worker.js": "/react-app/service-worker.js",
+    "static/css/main.bf599659.chunk.css.map": "/react-app/static/css/main.bf599659.chunk.css.map",
+    "static/js/2.4e358d22.chunk.js.LICENSE.txt": "/react-app/static/js/2.4e358d22.chunk.js.LICENSE.txt",
+    "static/media/banner.jpg": "/react-app/static/media/banner.c481145c.jpg",
+    "static/media/database-baner.jpg": "/react-app/static/media/database-baner.8a8362a5.jpg",
+    "static/media/db_image.jpg": "/react-app/static/media/db_image.98a61154.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee81378e.js",
+    "static/js/2.4e358d22.chunk.js",
+    "static/css/main.bf599659.chunk.css",
+    "static/js/main.3e9f8edf.chunk.js"
+  ]
+}
